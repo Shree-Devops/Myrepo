@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7784" started-at="2020-07-12T16:19:47 IST" finished-at="2020-07-12T16:19:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7784" started-at="2020-07-12T16:19:47 IST" finished-at="2020-07-12T16:19:54 IST">
+      <class name="testcases.BankManagerLoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.BankManagerLoginTest@2fd1433e]" name="setUp" is-config="true" duration-ms="10005" started-at="2020-07-12T16:19:37 IST" finished-at="2020-07-12T16:19:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginAsBankManager()[pri:0, instance:testcases.BankManagerLoginTest@2fd1433e]" name="loginAsBankManager" duration-ms="7660" started-at="2020-07-12T16:19:47 IST" finished-at="2020-07-12T16:19:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsBankManager -->
+      </class> <!-- testcases.BankManagerLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
